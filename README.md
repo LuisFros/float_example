@@ -1,2 +1,2 @@
 # float_example
-html page :[I'm a relative reference to a repository file](../blob/master/float-exercise.html)
+html page :[I'm a relative reference to a repository file](../master/float-exercise.html)
